@@ -1,0 +1,25 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "pc",
+      "prix": 0,
+      "quantite": 12,
+      "urlimg": "./assets/img/pc.png"
+    },
+    {
+      "id": 2,
+      "nom": "phone",
+      "prix": 0,
+      "quantite": 12,
+      "urlimg": "./assets/img/phone.png"
+    },
+    {
+      "id": 3,
+      "nom": "pc",
+      "prix": 0,
+      "quantite": 12,
+      "urlimg": "./assets/img/pc.png"
+    }
+  ]
+}
